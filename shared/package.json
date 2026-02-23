@@ -2,5 +2,8 @@
   "name": "@bond-calculator/shared",
   "version": "1.0.0",
   "main": "src/index.ts",
-  "types": "src/index.ts"
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "echo 'No build step required for shared package'"
+  }
 }
